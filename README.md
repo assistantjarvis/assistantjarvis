@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chetan Mishra</h1>
+<p>Welcome to my GitHub profile! I am a passionate programmer with a diverse set of skills in software development, data science, and DevOps. Here you will find a collection of my projects and contributions. Feel free to explore and reach out if you have any questions or collaboration ideas!</p>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=assistantjarvis&label=Profile%20views&color=0e75b6&style=flat" alt="assistantjarvis" /> </p>
@@ -27,3 +28,72 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=assistantjarvis&show_icons=true&locale=en" alt="assistantjarvis" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=assistantjarvis&" alt="assistantjarvis" /></p>
+
+
+
+
+## 🚀 Skills
+
+### Programming Languages
+- **Python**: Data analysis, machine learning, web development
+- **JavaScript**: Frontend development, Node.js
+- **Java**: Android development, backend services
+- **C++**: Competitive programming, system programming
+- **SQL**: Database design, querying
+
+### Web Development
+- **Frontend**: HTML, CSS, JavaScript, React, Vue.js
+- **Backend**: Node.js, Express, Django, Flask
+- **API Development**: RESTful APIs, GraphQL
+
+### Data Science & Machine Learning
+- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning**: Scikit-learn, TensorFlow, Keras, PyTorch
+- **Data Visualization**: Tableau, Plotly
+
+### DevOps & Cloud
+- **Containerization**: Docker, Kubernetes
+- **CI/CD**: Jenkins, GitHub Actions, Travis CI
+- **Cloud Services**: AWS, Google Cloud, Azure
+- **Infrastructure as Code**: Terraform, Ansible
+
+### Tools & Technologies
+- **Version Control**: Git, GitHub, GitLab
+- **IDEs & Editors**: VS Code, PyCharm, IntelliJ IDEA
+- **Operating Systems**: Linux, Windows, macOS
+
+## 📂 Projects
+
+### [Project Name 1](https://github.com/yourusername/project1)
+**Description**: A brief description of the project, its purpose, and key features.
+
+**Technologies Used**: Python, Flask, PostgreSQL
+
+### [Project Name 2](https://github.com/yourusername/project2)
+**Description**: A brief description of the project, its purpose, and key features.
+
+**Technologies Used**: JavaScript, React, Node.js
+
+### [Project Name 3](https://github.com/yourusername/project3)
+**Description**: A brief description of the project, its purpose, and key features.
+
+**Technologies Used**: TensorFlow, Keras, Python
+
+## 🏆 Achievements and Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=flat&no-frame=true&margin-w=15)
+
+## 🏆 Additional Achievements
+
+- **Hackathons**: Won XYZ hackathon with a project on ABC.
+- **Certifications**: Certified in AWS Solutions Architect, Google Data Engineer.
+- **Publications**: Published research paper on machine learning in ABC journal.
+
+
+## 📧 Contact
+
+Feel free to reach out to me at [your.email@example.com](mailto:cm24mummypapa@gmail.com) for any inquiries or collaboration opportunities.
+
+---
+
+Thank you for visiting my GitHub profile! Have a great day! 😊
