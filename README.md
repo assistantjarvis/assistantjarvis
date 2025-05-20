@@ -92,7 +92,7 @@
 
 ## 📧 Contact
 
-Feel free to reach out to me at [your.email@example.com](mailto:cm24mummypapa@gmail.com) for any inquiries or collaboration opportunities.
+Feel free to reach out to me at [cm24mummypapa@gmail.com](mailto:cm24mummypapa@gmail.com) for any inquiries or collaboration opportunities.
 
 ---
 
