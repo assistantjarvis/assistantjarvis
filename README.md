@@ -1,13 +1,13 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<h1 align="center">Hi 👋, I'm Apurva </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ap00rvx&label=Profile%20views&color=0e75b6&style=flat" alt="Ap00rvx" /> </p>
+<h1 align="center">Hi 👋, I'm Chetan</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ap00rvx&label=Profile%20views&color=0e75b6&style=flat" alt="Chetan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ap00rvx&theme=discord" alt="Ap00rvx" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter , Node.js**
 - 💬 Ask me about **Flutter, Node.js**
-- 📫 How to reach me **apurvabraj@gmail.com**
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1jX1_ziQCp8eOKW4J_mapIa89dcAf5vVb/view?usp=drive_link">**Resume**</a> 
+- 📫 How to reach me **cm24mummypapa@gmail.com**
+- 📄 Know about my experiences <a href="https://drive.google.com/drive/my-drive">**Resume**</a> 
 - ⚡ Fun fact **Good guys, Come last..**
 
 <div> <a href="https://www.linkedin.com/in/apurva-b-raj" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
