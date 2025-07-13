@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Flutter, Node.js, Data Science, DevOps**
 - 💬 Ask me about **Frontend Development, Data Science, DevOps**
 - 📫 How to reach me **cm24mummypapa@gmail.com**
-- 📄 Know about my experiences <a href="https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto">**Resume**</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1eQi3ead4pgWiR0s0NtbFtpo2Wn7Y9-2R/view?usp=drivesdk">**Resume**</a>
 - ⚡ Fun fact **Good guys, Come last..**
 
 <div>
